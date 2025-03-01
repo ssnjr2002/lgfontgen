@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+    <family>
+        <nameset>
+            <name>$$FONT_NAME$$</name>
+            <name>sans-serif</name>
+            <name>arial</name>
+            <name>helvetica</name>
+            <name>tahoma</name>
+            <name>verdana</name>
+        </nameset>
+        <fileset>
+            <file>font.ttf</file>
+        </fileset>
+    </family>
+</familyset>

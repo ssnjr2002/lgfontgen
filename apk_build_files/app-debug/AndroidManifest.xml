@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.hy.app.FontSettings.$$FONT_NAME$$" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <application android:debuggable="true" android:extractNativeLibs="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name">
+        <activity android:exported="true" android:name="com.hy.app.FontSettings.lgfontgenapp.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.INFO"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
